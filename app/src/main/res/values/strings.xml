@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FragmentColor</string>
+    <string name="button_back">Back</string>
+    <string name="button_red">RED</string>
+    <string name="button_orange">ORANGE</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+    <string name="button_blue_light">BLUE_LIGHT</string>
+    <string name="button_blue_dark">BLUE_DARK</string>
+    <string name="button_violet">VIOLET</string>
+    <string name="button_white">WHITE</string>
+    <string name="button_grey">GREY</string>
+    <string name="button_black">BLACK</string>
+    <string name="main">Main View</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="color">COLOR</string>
+
+</resources>
